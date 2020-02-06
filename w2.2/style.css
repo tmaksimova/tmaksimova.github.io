@@ -1,0 +1,14 @@
+
+body {
+    background-color: #ff5099;
+}
+.saturn{
+    color: rgb(55, 79, 47);
+}
+
+.neptune.mars{
+    color: rgb(91, 155, 219);
+}
+:not(.mars){
+    background: forestgreen;
+}
